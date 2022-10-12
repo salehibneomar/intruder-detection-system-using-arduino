@@ -96,3 +96,6 @@ void loop(){
   rotateServo();
    
 }
+
+//Coded by: Saleh Ibne Omar
+
